@@ -1,0 +1,69 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="Test1">
+        <classes>
+            <class name="AdvanceSearch"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="AutomationTests"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="BaseTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="HomePageLoadTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="IMDbCriticsNavigationTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="IMDbPersonLinkTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="IMDbWatchlistTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="NavigateMoreLikeThisSectionTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="NavigatePhotosTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="SearchAndVerifyMovieTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="SearchBoxVisibleTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="SignInTest"/>
+        </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="videoPlayer"/>
+        </classes>
+    </test>
+</suite>
